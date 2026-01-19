@@ -329,7 +329,7 @@ span {
 /* Footer Section */
 #footer {
      background: #0a2540;
-      margin-bottom: 4rem;
+     
 }
 #footer .footer-container {
     display: flex;
@@ -406,6 +406,7 @@ span {
     align-items: center;
     justify-content: center;
     font-size: 0.9rem;
+     padding-bottom: 2rem;
 }
 /*End Footer Section */
 
