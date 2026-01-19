@@ -7,7 +7,6 @@
 body {
     background-color: black;
     color: white;
-    margin-bottom: 5rem;
 }
 .btn {
     display: inline-block;
@@ -406,7 +405,7 @@ span {
     align-items: center;
     justify-content: center;
     font-size: 0.9rem;
-
+     margin-bottom: 3rem;
 }
 /*End Footer Section */
 
